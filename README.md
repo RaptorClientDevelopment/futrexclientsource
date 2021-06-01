@@ -1,4 +1,4 @@
-##FutureX a skid of Method client
+## FutureX a skid of Method client
 # Method Client
 ### idc if it doesn't build
 #### Join my client discord [Discord](https://discord.gg/pJ5qDsSSvg)
