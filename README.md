@@ -1,4 +1,5 @@
 ## FutureX a skid of Method client
+### Credit Goes to gopro336 and Peterrr__ i just decompiled their jar
 # Method Client
 ### idc if it doesn't build
 #### Join my client discord [Discord](https://discord.gg/pJ5qDsSSvg)
